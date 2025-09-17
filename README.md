@@ -1,6 +1,6 @@
 # 📊 Dashboard IoT - Monitoramento de Umidade e Temperatura
 
-Este projeto cria um **dashboard interativo** para monitoramento de ambiente usando dados de sensores IoT. Ele permite visualizar gráficos de **Umidade (%)** e **Temperatura (°C)**, separados ou juntos, com indicadores de **últimas leituras** e um **relatório resumido**.
+Este projeto cria um **dashboard interativo** para monitoramento de ambiente usando dados de sensores IoT. Ele permite visualizar gráficos de **Umidade (%)** e **Temperatura (°C)**, separados ou juntos, com indicadores de **últimas leituras**.
 
 ---
 
